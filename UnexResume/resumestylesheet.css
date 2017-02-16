@@ -1,0 +1,85 @@
+
+body {
+    background-color: white;
+    font-family: Ek Mukta;
+}
+h1 {
+
+    margin: 0;
+
+}
+h2 {
+    color: ##0A1612;
+}
+h3 {
+    color: #1A2930;
+}
+
+#header {
+    background-color:#1A2930;
+    color: white;
+    text-align: center;
+    padding-bottom: -10px;
+    float;
+
+}
+#work {
+    background-color: #C5C1C0;
+    padding: 0px 10px 10px 10px;
+}
+#workbody {
+    background-color: #C5C1C0;
+}
+#education {
+    background-color: #C5C1C0;
+}
+#skills {
+    background-color:  #C5C1C0;
+}
+#lic {
+    background-color: #C5C1C0;
+}
+/* I couldn't figure out how to make the text and img float responsively
+with this container so I'm commenting it out for now
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    float;
+    clear: both;
+*/
+
+
+}
+
+#content {
+    padding: 10px 10px 10px 10px;
+    float;
+
+}
+#image {
+
+    float: right;
+    margin:  10px;
+    padding-top: 1px;
+    radius: 20px;
+
+
+
+}
+#main {
+    background-color: white;
+
+}
+
+#footer {
+float;
+    clear: both;
+    padding: 10px;
+    background-color: #F7CE3E;
+    color: white;
+    text-align: center;
+
+
+}
